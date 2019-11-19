@@ -1,1 +1,1 @@
-# img-grid
+# This shws the education related news from the perspective of Pakistan
